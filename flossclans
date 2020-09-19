@@ -1,0 +1,90 @@
+<center>
+<table style="padding: 10px; border: 2px solid primary;">
+  <tr style="border: 2px solid primary;">
+     <th style="padding: 5px; border: 2px solid primary;"><center>Alpha</center></th>
+     <th style="padding: 5px; border: 2px solid primary;"><center>Beta</center></th>
+     <th style="padding: 5px; border: 2px solid primary;"><center>Gamma</center></th>
+     <th style="padding: 5px; border: 2px solid primary;"><center>Delta</center></th>
+     <th style="padding: 5px; border: 2px solid primary;"><center>Epsilon</center></th>
+     <th style="padding: 5px; border: 2px solid primary;"><center>Zeta</center></th>
+     <th style="padding: 5px; border: 2px solid primary;"><center>Theta</center></th>
+     <th style="padding: 5px; border: 2px solid primary;"><center>Iota</center></th>
+     <th style="padding: 5px; border: 2px solid primary;"><center>Kappa</center></th>
+     <th style="padding: 5px; border: 2px solid primary;"><center>Lambda</center></th>
+     <th style="padding: 5px; border: 2px solid primary;"><center>Mu</center></th>
+     <th style="padding: 5px; border: 2px solid primary;"><center>Nu</center></th>
+     <th style="padding: 5px; border: 2px solid primary;"><center>Rho</center></th>
+     <th style="padding: 5px; border: 2px solid primary;"><center>Phi</center></th>
+     <th style="padding: 5px; border: 2px solid primary;"><center>Psi</center></th>
+     <th style="padding: 5px; border: 2px solid primary;"><center>Total</center></th>
+  </tr>
+<tr>
+      <!-- Alphas -->
+     <td style="padding: 5px; border: 2px solid primary;"><center><i class="fas fa-circle"></i></center></td>
+     <!-- Betas -->
+     <td style="padding: 5px; border: 2px solid primary;"><center><i class="fas fa-triangle"></i></center></td>
+     <!-- Gammas -->
+     <td style="padding: 5px; border: 2px solid primary;"><center><i class="fas fa-square"></i></center></td>
+     <!-- Deltas -->
+     <td style="padding: 5px; border: 2px solid primary;"><center><i class="fas fa-cross"></i></center></td>
+     <!-- Epsilons -->
+     <td style="padding: 5px; border: 2px solid primary;"><center><i class="fas fa-yin-yang"></i></center></td>
+     <!-- Zeta -->
+     <td style="padding: 5px; border: 2px solid primary;"><center><i class="fas fa-moon"></i></center></td>
+     <!-- Theta -->
+     <td style="padding: 5px; border: 2px solid primary;"><center><i class="fas fa-triangle fa-rotate-180"></i></center></td>
+     <!-- Iota -->
+     <td style="padding: 5px; border: 2px solid primary;"><center><i class="fas fa-diamond"></i></center></td>
+     <!-- Kappa -->
+     <td style="padding: 5px; border: 2px solid primary;"><center>✦</center></td>
+     <!-- Lambda -->
+     <td style="padding: 5px; border: 2px solid primary;"><center><i class="fas fa-heart"></i></center></td>
+     <!-- Mu -->
+     <td style="padding: 5px; border: 2px solid primary;"><center><i class="fas fa-map-marker fa-rotate-180"></i></center></td>
+     <!-- Nu -->
+     <td style="padding: 5px; border: 2px solid primary;"><center><i class="fas fa-map-marker"></i></center></td>
+     <!-- Rho -->
+     <td style="padding: 5px; border: 2px solid primary;"><center><i class="fas fa-anchor"></i></i></center></td>
+     <!-- Phi -->
+     <td style="padding: 5px; border: 2px solid primary;"><center><i class="fas fa-star"></i></center></td>
+     <!-- Psi -->
+     <td style="padding: 5px; border: 2px solid primary;"><center><i class="fas fa-radiation-alt"></i></center></td>
+     <td style="padding: 5px; border: 2px solid primary;"><center><!-- leave blank --></center></td>  
+</tr>
+
+<tr>
+      <!-- Number of Alphas -->
+      <td style="padding: 5px; border: 2px solid primary;"><center>#</center></td>
+      <!--Number of Betas -->
+      <td style="padding: 5px; border: 2px solid primary;"><center>#</center></td>
+      <!--Number of Gammas -->
+      <td style="padding: 5px; border: 2px solid primary;"><center>#</center></td>
+      <!--Number of Deltas -->
+      <td style="padding: 5px; border: 2px solid primary;"><center>#</center></td>
+      <!--Number of Epsilons -->
+      <td style="padding: 5px; border: 2px solid primary;"><center>#</center></td>
+      <!--Number of Zeta -->
+      <td style="padding: 5px; border: 2px solid primary;"><center>#</center></td>
+      <!--Number of Thetas -->
+      <td style="padding: 5px; border: 2px solid primary;"><center>#</center></td>
+      <!--Number of Iota -->
+      <td style="padding: 5px; border: 2px solid primary;"><center>#</center></td>
+      <!--Number of Kappa -->
+      <td style="padding: 5px; border: 2px solid primary;"><center>#</center></td>
+      <!--Number of Lambda -->
+      <td style="padding: 5px; border: 2px solid primary;"><center>#</center></td>
+      <!--Number of Mu -->
+      <td style="padding: 5px; border: 2px solid primary;"><center>#</center></td>
+      <!--Number of Nu -->
+      <td style="padding: 5px; border: 2px solid primary;"><center>#</center></td>
+      <!--Number of Rho -->
+      <td style="padding: 5px; border: 2px solid primary;"><center>#</center></td>
+      <!--Number of Phi -->
+      <td style="padding: 5px; border: 2px solid primary;"><center>#</center></td>
+      <!--Number of Psi -->
+      <td style="padding: 5px; border: 2px solid primary;"><center>#</center></td>
+      <!--Total Number of Floss-->
+      <td style="padding: 5px; border: 2px solid primary;"><center>#</center></td>
+  </tr>
+  </table>
+  </center>
